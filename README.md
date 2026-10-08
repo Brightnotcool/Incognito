@@ -1,6 +1,4 @@
-# NOTICE:
 
-You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. [Read more here](https://amethystnetwork-dev.github.io/docs/static-hosts).
 
 <!--
                                 _     _                     _       _   _          _                               _    
