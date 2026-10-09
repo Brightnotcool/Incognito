@@ -1,7 +1,7 @@
 services:
   - type: web
     name: incognito
-    runtime: docker
+    runtime: node
     plan: free
     buildCommand: npm install
     startCommand: npm start
